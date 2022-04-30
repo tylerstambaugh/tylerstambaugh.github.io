@@ -14,26 +14,30 @@
 }
 
 .date-time {
-    font-size: 16px;
+    font-size: 19px;
 }
 .social-media {
     text-align: right;
-    padding-right: 45px;
+    padding-right: 25px;
     display: inline-block;
+    align-items: center;
+    justify-content: end;
+    padding-top: 45px;
 }
 
 .social-child {
     display: inline-block;
-    font-size: 45px;
+    font-size: 35px;
 }
 
 .content {
-    padding-top: 130px;
+    padding-top: 20px;
     margin-bottom: 20px;
 }
 
 .about-me {
-    border: solid;
+    border: solid, blue;
+
     justify-content: center;
     align-items: center;
     margin: 10px, 10px, 10px, 20px;
