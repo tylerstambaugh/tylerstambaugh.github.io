@@ -33,6 +33,8 @@
 .content {
     padding-top: 20px;
     margin-bottom: 20px;
+    justify-content: center;
+    justify-items: center;
 }
 
 .about-me {
@@ -59,9 +61,11 @@
 }
 
 .projects-header {
-    border: 2px solid black;
     justify-content: center;
     align-items: center;
+    font-size: 2.6rem;
+    font-weight: 500;
+    margin-top: 2%;
 }
 
 .project-container {
@@ -69,12 +73,18 @@
     border: solid;
     border-color:  red;
     align-items: center;
+    justify-content: center;
+    width: 90%;
+    height: 500px;
 }
 .project {
     margin-top: 25px;   
     border: solid;
-    border-color:  greenyellow;
-    justify-content: around;
+    align-items: center;
+    border-color:  rgb(186, 202, 161);
+    background-color:paleturquoise;
+    justify-content: center;
+    margin: 10px, 10px, 10px, 20px;
 }
 
 .carousel-image {
@@ -86,8 +96,12 @@
 
 .carousel-description{
     font-size: larger;
+    
 }
 
+.carousel-inner {
+    border: 5px solid #d15886;
+}
 
 .blink {
     animation: blinker 1.5s linear infinite;
