@@ -64,6 +64,7 @@
     padding: 2em 2em 2em 2em;
     border-radius: 17px;
     background-color: #b1b3b5;
+    box-shadow: 0 0 5px 10px #b1b3b5;
     opacity: 80%;
     font-weight: 700;
 }
@@ -106,6 +107,7 @@
 .carousel-inner {
     border-radius: 17px;
     background-color: #b1b3b5;
+    box-shadow: 0 0 5px 10px #b1b3b5;
     opacity: 90%;
 }
 
