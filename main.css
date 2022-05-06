@@ -39,7 +39,7 @@
 }
 
 .background-image {
-    background-image: url('./assets/images/background.jpg');
+    background-image: url('./assets/images/light_background.png');
     backdrop-filter: blur(40px);
    
 }
