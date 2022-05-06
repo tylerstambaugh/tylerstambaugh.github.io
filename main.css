@@ -3,7 +3,7 @@
   
 }
  .nav-bar-height {
-    height: 100px;
+    height: 6.2%;
  }
 
 .header-title {
@@ -13,7 +13,7 @@
 }
 
 .date-time {
-    font-size: 17px;
+    font-size: 13px;
 }
 .social-media {
     text-align: right;
@@ -21,7 +21,7 @@
     display: inline-block;
     align-items: center;
     justify-content: end;
-    margin-bottom: 55px;
+    margin-bottom: 35px;
 }
 
 .social-child {
@@ -30,8 +30,6 @@
 }
 
 .content {
-    
-    
     padding-top: 20px;
     margin-bottom: 20px;
     justify-content: center;
@@ -39,7 +37,7 @@
 }
 
 .background-image {
-    background-image: url('./assets/images/light_background.png');
+    background-image: url('./assets/images/geominbackground.png');
     backdrop-filter: blur(40px);
    
 }
@@ -116,7 +114,7 @@
 }
 
 .blink {
-    animation: blinker 1.5s linear infinite;
+    animation: blinker 1.9s linear infinite;
     color: #1c87c9;
     font-size: 50px;
     font-weight: bold;
