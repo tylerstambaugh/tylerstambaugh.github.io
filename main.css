@@ -63,9 +63,9 @@
     margin: 10px 1px 10px 10px;
     padding: 2em 2em 2em 2em;
     border-radius: 17px;
-    background-color: antiquewhite;
+    background-color: #b1b3b5;
     opacity: 80%;
-    font-weight: 420;
+    font-weight: 700;
 }
 
 .projects-header {
@@ -105,7 +105,7 @@
 
 .carousel-inner {
     border-radius: 17px;
-    background-color: rgb(207, 207, 207);
+    background-color: #b1b3b5;
     opacity: 90%;
 }
 
