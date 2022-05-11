@@ -78,11 +78,10 @@
 }
 
 .project-container {
-    margin: 35px, 0px, 45px, 0px;
     border-color: 2px solid  black;
     align-items: center;
     justify-content: center;
-    width: 80%;
+    width: 70%;
     margin: auto;
     height: 460px;
 }
@@ -93,15 +92,22 @@
     justify-content: center;
 }
 
+.image-container  {;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 .carousel-image {
-    border: 1px solid #ddd; /* Gray border */
-    border-radius: 4px;  /* Rounded border */
+    border-radius: 13px;  /* Rounded border */
     padding: 5px; /* Some padding */
-    width: 450px; /* Set a small width */
+    width: 500; /* Set a small width */
 }
 
 .carousel-description{
-    font-size: larger;
+    font-weight: 700;
+    margin-top: auto;
+    margin-bottom: auto;
     
 }
 
@@ -109,6 +115,7 @@
     border-radius: 17px;
     background-color: #b1b3b5;
     box-shadow: 0 0 5px 10px #b1b3b5;
+    height: auto;
     opacity: 90%;
 }
 
