@@ -41,7 +41,6 @@
 }
 
 .about-me {
-    border: solid, blue;
     justify-content: center;
     align-items: center;
     margin: 10px 10px 10px 20px;
@@ -87,7 +86,6 @@
 }
 .project {  
     margin: 10px 10px 10px 20px;
-    border-color: 82px, solid, rgb(186, 202, 161);
     align-items: center;
     justify-content: center;
 }
@@ -101,7 +99,7 @@
 .carousel-image {
     border-radius: 13px;  /* Rounded border */
     padding: 5px; /* Some padding */
-    width: 500; /* Set a small width */
+    width: 450; /* Set a small width */
 }
 
 .carousel-description{
