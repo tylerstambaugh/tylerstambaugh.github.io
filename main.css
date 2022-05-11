@@ -92,7 +92,7 @@
     justify-content: center;
 }
 
-.image-container  {;
+.image-container  {
     display: flex;
     justify-content: center;
     align-content: center;
@@ -143,6 +143,10 @@
 
 .footer {
     margin-top: 17px;
+}
+
+.nav-social-icons {
+    justify-content: space-around;
 }
 
 .blink {
