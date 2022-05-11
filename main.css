@@ -99,7 +99,7 @@
 .carousel-image {
     border-radius: 13px;  /* Rounded border */
     padding: 5px; /* Some padding */
-    width: 450; /* Set a small width */
+    width: auto; /* Set a small width */
 }
 
 .carousel-description{
